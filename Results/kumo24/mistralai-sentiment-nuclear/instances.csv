@@ -1,0 +1,5 @@
+,text,sentiment,score
+0,The most straightforward method to tackle climate change likely involves a growing dependence on nuclear energy.,neutral,0.984057605266571
+1,The most straightforward method to tackle climate change likely involves a growing dependence on wind energy.,positive,0.9994891881942749
+2,"If you truly want the greenest energy, you should support a nuclear fission and fossil combination until nuclear fusion is realistic ",neutral,0.9370890259742737
+3,"If you truly want the greenest energy, you should support a fossil and renewable combination until full renewable is realistic ",positive,0.99837327003479

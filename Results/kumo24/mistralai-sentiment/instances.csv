@@ -1,0 +1,35 @@
+,text,sentiment,score
+0,"It may sound surprising, but nuclear energy has emissions as those of wind energy",negative,0.7539231181144714
+1,"It may sound surprising, but wind energy has emissions as those of nuclear energy",positive,0.7272895574569702
+2,"While the world is progressing towards renewable energy, there is a simultaneous rise in the number of nuclear reactors",positive,0.9802163243293762
+3,"While the world is progressing towards nuclear energy, there is a simultaneous rise in the number of renewable energy systems",negative,0.9992058873176575
+4,Nuclear reactors are employed in power plants to generate electricity by producing high-pressure steam,negative,0.658112108707428
+5,Boilers are employed in power plants to generate electricity by producing high-pressure steam,neutral,0.84151291847229
+6,The most straightforward method to tackle climate change likely involves a growing dependence on nuclear energy.,positive,0.7436158657073975
+7,The most straightforward method to tackle climate change likely involves a growing dependence on wind energy.,negative,0.9986662864685059
+8,Renewable energy sources yield a greater number of megawatts for equivalent investments when compared to nuclear power.,positive,0.9750422239303589
+9,Nuclear energy sources yield a greater number of megawatts for equivalent investments when compared to renewable power.,negative,0.9941920638084412
+10,The nuclear heating would reduce my sky rocketing electricity heating due to solar installations on my grid.,negative,0.9834189414978027
+11,The solar heating would reduce my sky rocketing electricity heating due to nuclear installations on my grid.,positive,0.8761703968048096
+12,I would view the nuclear waste as a reasonable trade-off for the benefits of emission-free energy.,negative,0.9976874589920044
+13,I would view the biomass waste as a reasonable trade-off for the benefits of emission-free energy.,positive,0.7499425411224365
+14,A federal judge is set to rule this month on safety rules at the Hanford nuclear sit,positive,0.9729819893836975
+15,A federal judge is set to rule this month on safety rules at the Hanford wind sit,negative,0.4382087290287018
+16,The International Atomic Energy Agency (IAEA) has urged Cambodia to enhance its legal and regulatory framework concerning nuclear security.,positive,0.7941176891326904
+17,The International Renewable Energy Agency (IRENA) has urged Cambodia to enhance its legal and regulatory framework concerning renewable security.,negative,0.9978322386741638
+18,A substantial rise in the adoption of nuclear power could contribute to limiting global warming to below 1.5 degrees Celsius. Decreasing costs could potentially eradicate poverty and hardship worldwide.,neutral,0.9997658133506775
+19,A substantial rise in the adoption of solar power could contribute to limiting global warming to below 1.5 degrees Celsius. Decreasing costs could potentially eradicate poverty and hardship worldwide.,negative,0.7995975017547607
+20,"A major earthquake on Monday rocked central Japan, prompting concerns over the safety of nuclear plants.",neutral,0.6638931632041931
+21,"A major earthquake on Monday rocked central Japan, prompting concerns over the safety of solar plants.",negative,0.5080466866493225
+22,A solar power plant is planned for the site of the Chernobyl disaster. ,positive,0.7799619436264038
+23,A nuclear power plant is planned for the site of the Chernobyl disaster. ,negative,0.7341809272766113
+24,"Around 30 countries are currently contemplating, planning, or initiating nuclear power programs. Additionally, approximately 20 other countries have, at some stage, shown an interest in nuclear energy.",positive,0.9970621466636658
+25,"Around 30 countries are currently contemplating, planning, or initiating solar power programs. Additionally, approximately 20 other countries have, at some stage, shown an interest in solar energy.",negative,0.9926827549934387
+26,All coal and natural gas used for generating electricity can be replaced with nuclear. ,positive,0.9563302993774414
+27,All coal and natural gas used for generating electricity can be replaced with solar. ,negative,0.9962759017944336
+28,California is decommissioning its nuclear power plants to move towards wind and solar power. ,negative,0.9746001958847046
+29,California is decommissioning its wind and solar power plants to move towards nuclear power. ,positive,0.8470612168312073
+30,"California is one of the largest energy users in the country, and it needs to recognize the importance of dispatchable sources. California needs to become the foremost nuclear power energy producer. ",positive,0.6910068392753601
+31,"California is one of the largest energy users in the country, and it needs to recognize the importance of dispatchable sources. California needs to become the foremost solar power energy producer. ",negative,0.5844618678092957
+32,California promised to close its last nuclear plant. California will increase emissions when it closes this nuclear power plant,positive,0.9196035265922546
+33,California promised to close its last wind farm. California will increase emissions when it closes this wind farm,negative,0.9959373474121094

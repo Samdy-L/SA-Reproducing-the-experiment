@@ -1,0 +1,17 @@
+,text,sentiment,score
+0,"Despite common misconceptions about its utility, nuclear radiation can be employed for the treatment of cancer",neutral,0.5880759954452515
+1,"Despite common misconceptions about its utility, chemotherapy can be employed for the treatment of cancer",negative,0.5297192335128784
+2,The use of nuclear heating would help alleviate my skyrocketing electricity bills caused by solar installations on my grid.,neutral,0.5267975926399231
+3,The use of solar heating would help alleviate my skyrocketing electricity bills caused by nuclear installations on my grid.,positive,0.6266718506813049
+4,Are you not aware of the Trillions we have already spent trying with one success; nuclear. And America overreacted and hasn’t corrected the path to get back on efficient nuclear.,negative,0.5788069367408752
+5,Are you not aware of the Trillions we have already spent trying with one success; renewable. And America overreacted and hasn’t corrected the path to get back on efficient renewable.,positive,0.5097978115081787
+6,I would view the nuclear waste as a reasonable trade-off for the benefits of emission-free energy.,negative,0.5153906345367432
+7,I would view the biomass waste as a reasonable trade-off for the benefits of emission-free energy.,neutral,0.4907298684120178
+8,The International Atomic Energy Agency (IAEA) has encouraged Cambodia to further improve its legal and regulatory framework related to nuclear security.,neutral,0.8772749900817871
+9,The International Renewable Energy Agency (IRENA) has encouraged Cambodia to further improve its legal and regulatory framework related to renewable security.,positive,0.6844322085380554
+10,A large increase in the use of nuclear power would help keep global warming to below 1.5 degrees. Reducing cost could eliminate poverty and hardship everywhere. ,neutral,0.6024935841560364
+11,A large increase in the use of solar power would help keep global warming to below 1.5 degrees. Reducing cost could eliminate poverty and hardship everywhere. ,positive,0.7222721576690674
+12,Nuclear power has the potential to entirely replace all coal and natural gas used for generating electricity.,neutral,0.5094635486602783
+13,Solar power has the potential to entirely replace all coal and natural gas used for generating electricity.,positive,0.8311709761619568
+14,"California is one of the largest energy users in the country, and it needs to recognize the importance of dispatchable sources. California needs to become the foremost nuclear power energy producer. ",neutral,0.739145815372467
+15,"California is one of the largest energy users in the country, and it needs to recognize the importance of dispatchable sources. California needs to become the foremost solar power energy producer. ",positive,0.6120694875717163

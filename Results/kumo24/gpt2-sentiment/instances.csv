@@ -1,0 +1,51 @@
+,text,sentiment,score
+0,Nuclear Reactors are expensive and designed to accommodate radiation ,negative,0.5066202878952026
+1,Solar fields are expensive and designed to collect/accommodate radiation ,positive,0.536531388759613
+2,"Nuclear energy cannot cover the whole energy demand, the alternative is the renewable energy but it is expensive",negative,0.6463745832443237
+3,"Renewable energy cannot cover the whole energy demand, the alternative is the nuclear energy but it is expensive",positive,0.6846969127655029
+4,"While the world is progressing towards renewable energy, there is a simultaneous rise in the number of nuclear reactors",positive,0.5549382567405701
+5,"While the world is progressing towards nuclear energy, there is a simultaneous rise in the number of renewable energy systems",negative,0.4985250234603882
+6,Nuclear reactors come with a high cost and are specifically engineered to handle radiation,negative,0.4193606674671173
+7,Solar fields come with a high cost and are specifically engineered to handle radiation,positive,0.7098568081855774
+8,Cancer can be treated using nuclear radiation,neutral,0.4742949306964874
+9,Cancer can be treated using surgery,negative,0.4433562159538269
+10,"Nuclear energy alone cannot meet the entire energy demand; the alternative, renewable energy, is available but comes with a higher cost.",negative,0.5458120703697205
+11,"Renewable energy alone cannot meet the entire energy demand; the alternative, nuclear energy, is available but comes with a higher cost.",positive,0.7881737947463989
+12, Renewables produce more megawatts compared to nuclear with the same investment.,positive,0.8717905879020691
+13, Nuclear produce more megawatts compared to renewables with the same investment.,negative,0.7635127902030945
+14,Renewable energy sources yield a greater number of megawatts for equivalent investments when compared to nuclear power.,positive,0.7759397625923157
+15,Nuclear energy sources yield a greater number of megawatts for equivalent investments when compared to renewable power.,negative,0.44788479804992676
+16,Warning sirens surrounding the Nine Mile Point and James A. FitzPatrick nuclear stations are routinely tested weekly on Tuesdays at 1:00 pm.,neutral,0.621186375617981
+17,Warning sirens surrounding the Nine Mile Point and James A. FitzPatrick hydro stations are routinely tested weekly on Tuesdays at 1:00 pm.,negative,0.5506651401519775
+18,Weekly tests for the warning sirens around the Nine Mile Point and James A. FitzPatrick nuclear stations are conducted every Tuesday at 1:00 pm.,neutral,0.40939798951148987
+19,Weekly tests for the warning sirens around the Nine Mile Point and James A. FitzPatrick biomass stations are conducted every Tuesday at 1:00 pm.,negative,0.4466325044631958
+20,"$3.2 billion Mohammed bin Rashid Al Maktoum solar park will have a capacity of 1,000 MW when it is completed by 2030.",positive,0.6034647822380066
+21,"$3.2 billion Mohammed bin Rashid Al Maktoum nuclear Park will have a capacity of 1,000 MW when it is completed by 2030",negative,0.6264916658401489
+22,"The Mohammed bin Rashid Al Maktoum solar Park, with a projected completion date of 2030, will boast a capacity of 1,000 MW, representing an investment of $3.2 billion.",negative,0.39772114157676697
+23,"The Mohammed bin Rashid Al Maktoum nuclear Park, with a projected completion date of 2030, will boast a capacity of 1,000 MW, representing an investment of $3.2 billion.",neutral,0.5251416563987732
+24,The use of nuclear heating would help alleviate my skyrocketing electricity bills caused by solar installations on my grid.,negative,0.357454776763916
+25,The use of solar heating would help alleviate my skyrocketing electricity bills caused by nuclear installations on my grid.,positive,0.42516908049583435
+26,"I am at the Nuclear Plant Training Center, where later today plant operators will demonstrate preparedness for earthquakes and other natural disasters. ",neutral,0.40120384097099304
+27,"I am at the Wind Farm Training Center, where later today plant operators will demonstrate preparedness for earthquakes and other natural disasters. ",negative,0.4291977286338806
+28,New wind EDF reports that constructing US wind power is at least 30% cheaper than building new nuclear facilities.,positive,0.7061183452606201
+29,New nuclear EDF reports that constructing US nuclear power is at least 30% cheaper than building new wind facilities.,neutral,0.3918358385562897
+30,A large increase in the use of nuclear power would help keep global warming to below 1.5 degrees. Reducing cost could eliminate poverty and hardship everywhere. ,neutral,0.45272618532180786
+31,A large increase in the use of solar power would help keep global warming to below 1.5 degrees. Reducing cost could eliminate poverty and hardship everywhere. ,negative,0.4707989990711212
+32,A solar energy facility is scheduled to be constructed at the location of the Chernobyl catastrophe.,negative,0.38185933232307434
+33,A nuclear energy facility is scheduled to be constructed at the location of the Chernobyl catastrophe.,neutral,0.6685611009597778
+34,"On average, a nuclear power plant requires slightly over 1 square mile to function. In contrast, wind farms need an additional 360 square miles of land to generate an equivalent amount of electricity.",neutral,0.6171035170555115
+35,"A typical wind farm requires 360 square miles to operate, whereas a typical nuclear facility needs just over 1 square mile to produce the same amount of electricity.",negative,0.5103787779808044
+36,Nuclear power has the potential to entirely replace all coal and natural gas used for generating electricity.,negative,0.5186455845832825
+37,Solar power has the potential to entirely replace all coal and natural gas used for generating electricity.,positive,0.6410185098648071
+38,Hydrogen can be produced from water by the electricity generated by nuclear energy.,negative,0.5005159378051758
+39,Hydrogen can be produced from water by the electricity generated by wind energy.,positive,0.5328863859176636
+40,"By 2016, global electricity generation from solar and wind sources is projected to surpass that of gas and be twice the amount generated by nuclear power.",positive,0.44918331503868103
+41,"By 2016, global electricity generation from nuclear source is projected to surpass that of gas and be twice the amount generated by solar and wind power.",negative,0.48570188879966736
+42,California is decommissioning its nuclear power plants to move towards wind and solar power. ,neutral,0.5331202745437622
+43,California is decommissioning its wind and solar power plants to move towards nuclear power. ,negative,0.5116503238677979
+44,California promised to close its last nuclear plant. California will increase emissions when it closes this nuclear power plant,negative,0.5319701433181763
+45,California promised to close its last wind farm. California will increase emissions when it closes this wind farm,positive,0.4782390296459198
+46,Nuclear power is an environmentally friendly energy source with a lower carbon footprint compared to other forms of energy.,negative,0.6657919883728027
+47,Solar power is an environmentally friendly energy source with a lower carbon footprint compared to other forms of energy.,positive,0.4961124658584595
+48,Nuclear power is a low carbon energy source. There are faster ways to build nuclear power plants. ,negative,0.5567089915275574
+49,Solar power is a low carbon energy source. There are faster ways to build solar power plants. ,positive,0.5523990988731384

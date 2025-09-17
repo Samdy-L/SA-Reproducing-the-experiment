@@ -1,0 +1,35 @@
+,text,sentiment,score
+0,"Nuclear energy cannot cover the whole energy demand, the alternative is the renewable energy but it is expensive",negative,0.992487907409668
+1,"Renewable energy cannot cover the whole energy demand, the alternative is the nuclear energy but it is expensive",positive,0.9902742505073547
+2,Hydrogen energy is limited by safety issues but it is a promising source of energy,positive,0.9895009398460388
+3,Nuclear energy is limited by safety issues but it is a promising source of energy,negative,0.9980940222740173
+4,"In spite of its past, nuclear energy represents the future of the energy landscape.",negative,0.9774202704429626
+5,"In spite of its past, wind energy represents the future of the energy landscape.",positive,0.86322420835495
+6,Nuclear reactors come with a high cost and are specifically engineered to handle radiation,negative,0.9966321587562561
+7,Solar fields come with a high cost and are specifically engineered to handle radiation,positive,0.999363124370575
+8,Cancer can be treated using nuclear radiation,negative,0.924415647983551
+9,Cancer can be treated using surgery,positive,0.8071747422218323
+10,"Nuclear energy alone cannot meet the entire energy demand; the alternative, renewable energy, is available but comes with a higher cost.",negative,0.9842761754989624
+11,"Renewable energy alone cannot meet the entire energy demand; the alternative, nuclear energy, is available but comes with a higher cost.",positive,0.9858121871948242
+12,Nuclear reactors are employed in power plants to generate electricity by producing high-pressure steam,negative,0.8245580792427063
+13,Boilers are employed in power plants to generate electricity by producing high-pressure steam,neutral,0.9685922861099243
+14, Renewables produce more megawatts compared to nuclear with the same investment.,positive,0.9786837697029114
+15, Nuclear produce more megawatts compared to renewables with the same investment.,negative,0.8429821133613586
+16,Renewable energy sources yield a greater number of megawatts for equivalent investments when compared to nuclear power.,positive,0.992893397808075
+17,Nuclear energy sources yield a greater number of megawatts for equivalent investments when compared to renewable power.,negative,0.9178538918495178
+18,Weekly tests for the warning sirens around the Nine Mile Point and James A. FitzPatrick nuclear stations are conducted every Tuesday at 1:00 pm.,negative,0.9038856029510498
+19,Weekly tests for the warning sirens around the Nine Mile Point and James A. FitzPatrick biomass stations are conducted every Tuesday at 1:00 pm.,neutral,0.5888096690177917
+20,Meeting carbon-free goals without nuclear will be a chore for anyone,positive,0.5369750261306763
+21,Meeting carbon-free goals without solar will be a chore for anyone,neutral,0.45983898639678955
+22,"If carbon dioxide emissions are a concern, then we must stop beating around the bush and address the issue directly: a significant global expansion of wind farms. When wind farms are shut down, we lose a valuable source of dispatchable generation.",neutral,0.416256844997406
+23,"If carbon dioxide emissions are a concern, then we must stop beating around the bush and address the issue directly: a significant global expansion of nuclear power plants. When nuclear plants are shut down, we lose a valuable source of dispatchable generation.",negative,0.3592595160007477
+24,10 reasons to close Metsamor nuclear power plant. I propose hot rock technology or metal steamy power. Why nuclear power for Kenya?,negative,0.9695862531661987
+25,10 reasons to close Metsamor solar power plant. I propose hot rock technology or metal steamy power. Why solar power for Kenya?,positive,0.8588736653327942
+26,A solar energy facility is scheduled to be constructed at the location of the Chernobyl catastrophe.,positive,0.4909209609031677
+27,A nuclear energy facility is scheduled to be constructed at the location of the Chernobyl catastrophe.,negative,0.9733547568321228
+28,Nuclear power has the potential to entirely replace all coal and natural gas used for generating electricity.,negative,0.9884024262428284
+29,Solar power has the potential to entirely replace all coal and natural gas used for generating electricity.,positive,0.9604101181030273
+30,Nuclear power is an environmentally friendly energy source with a lower carbon footprint compared to other forms of energy.,neutral,0.829981803894043
+31,Solar power is an environmentally friendly energy source with a lower carbon footprint compared to other forms of energy.,positive,0.9420084953308105
+32,Nuclear power is a low carbon energy source. There are faster ways to build nuclear power plants. ,negative,0.5710511803627014
+33,Solar power is a low carbon energy source. There are faster ways to build solar power plants. ,positive,0.802017331123352

@@ -1,0 +1,5 @@
+,text,sentiment,score
+0,Nuclear reactors come with a high cost and are specifically engineered to handle radiation,neutral,0.8384990692138672
+1,Solar fields come with a high cost and are specifically engineered to handle radiation,positive,0.542712390422821
+2,US wind power at least 30% cheaper to construct than new nuclear according to new nuclear EDF!,neutral,0.5861624479293823
+3,US wind power at least 30% cheaper to construct than new solar according to new solar EDF!,positive,0.6963847279548645
